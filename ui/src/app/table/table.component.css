@@ -1,6 +1,10 @@
 .parent-container {
-    padding-left: 50px;
-    padding-right: 50px; 
+    padding: 50px; 
   }
+
+.custom-table { 
+    box-shadow: 5px 5px 5px gray;
+    border: 1px solid;
+}
 
   
